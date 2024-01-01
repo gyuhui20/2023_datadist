@@ -1,0 +1,24 @@
+number of process: 1
+time: 61 sec
+time with mp: 22 sec
+time with ppe: 3 sec
+number of process: 2
+time: 59 sec
+time with mp: 20 sec
+time with ppe: 3 sec
+number of process: 3
+time: 49 sec
+time with mp: 21 sec
+time with ppe: 3 sec
+number of process: 4
+time: 41 sec
+time with mp: 15 sec
+time with ppe: 2 sec
+number of process: 5
+time: 34 sec
+time with mp: 15 sec
+time with ppe: 2 sec
+number of process: 6
+time: 32 sec
+time with mp: 16 sec
+time with ppe: 1 sec

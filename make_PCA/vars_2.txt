@@ -1,0 +1,15 @@
+wind_direction temperature
+wind_direction precipitation
+wind_direction humidity
+wind_direction ground_pressure
+wind_direction wind_speed
+temperature precipitation
+temperature humidity
+temperature ground_pressure
+temperature wind_speed
+precipitation humidity
+precipitation ground_pressure
+precipitation wind_speed
+humidity ground_pressure
+humidity wind_speed
+ground_pressure wind_speed
