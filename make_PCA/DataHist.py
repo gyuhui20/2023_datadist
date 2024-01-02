@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd  
 import matplotlib.pyplot as plt
 
 path = '/Users/gyuhuikwon/Desktop/KHUphy/github/2023_datadist/dataset_2018/data_2018.xlsx'  
