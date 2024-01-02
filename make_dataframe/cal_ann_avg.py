@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  
 import matplotlib.pyplot as plt
 def cal_ann(filename):
     day_avg = np.loadtxt(f'{filename}', dtype="str", delimiter=' ').astype(float)
