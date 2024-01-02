@@ -1,4 +1,4 @@
-from random import seed, random
+from random import seed, random  
 import argparse, sys
 import time
 
